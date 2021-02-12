@@ -19,3 +19,8 @@ main > div p {
     display: block;
     overflow: hidden;
 }
+
+main > div {
+    align-items: center;
+    justify-items: center;
+}

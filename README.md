@@ -2,7 +2,7 @@
 
 ## Demonstration
 
-<img src="" alt="Exemplo">
+<img src="./assets/demo.png" alt="Exemplo">
 
 #
 
